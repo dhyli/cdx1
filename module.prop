@@ -1,0 +1,7 @@
+id=redirector
+name=易の重定向
+version=v1.0.0
+versionCode=100
+author=Community
+description=文件重定向与自动整理模块，支持 Mount / Inotify 双模式，带 WebUI 配置界面
+updateJson=
